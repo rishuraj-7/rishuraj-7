@@ -44,12 +44,6 @@ AI-powered learning platform designed to help students learn more effectively.
 
 **Tech:** Next.js · React · Node.js · PostgreSQL · Generative AI
 
-### 🌾 Krishi Sakhi
-
-AI-powered farming assistant designed to provide personalized agricultural guidance.
-
-**Tech:** Next.js · TypeScript · React · Node.js · AI
-
 ### 💳 UPI Offline Mesh
 
 Java/Spring Boot project exploring simulated offline digital payment transactions.
@@ -62,11 +56,14 @@ Exploratory data analysis project focused on extracting insights from Netflix co
 
 **Tech:** Python · Data Analysis
 
-### 🌐 Digital Public Infrastructure (DPI)
+### 🔐 Deep Packet Inspection (DPI)
 
-Project focused on exploring how digital public infrastructure can enable accessible, scalable, and interoperable digital services.
+Network traffic analysis project focused on inspecting and analyzing packet-level data to identify protocols, traffic patterns, and potential network anomalies.
 
-**Tech:** Java · WireShark
+**Tech:** Python · Computer Networks · TCP/IP · Packet Analysis · Networking
+
+**Key Concepts:** Packet Inspection · Protocol Identification · TCP/UDP · Network Traffic Analysis
+
 ---
 
 ## 🧩 LeetCode
