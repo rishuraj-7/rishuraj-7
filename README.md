@@ -35,7 +35,6 @@ PostgreSQL · Supabase · Git · GitHub · Docker
 Generative AI · LLMs · RAG · LangChain · MLflow
 
 ---
-
 ## 🔥 Featured Projects
 
 ### 🤖 StudyGenie AI
@@ -43,6 +42,12 @@ Generative AI · LLMs · RAG · LangChain · MLflow
 AI-powered learning platform designed to help students learn more effectively.
 
 **Tech:** Next.js · React · Node.js · PostgreSQL · Generative AI
+
+### 🌾 Krishi Sakhi
+
+AI-powered agricultural assistance platform designed to help farmers with personalized farming guidance, crop-related information, and intelligent agricultural advisories using Generative AI and RAG.
+
+**Tech:** Next.js · React · TypeScript · Node.js · PostgreSQL · Generative AI · RAG
 
 ### 💳 UPI Offline Mesh
 
@@ -70,21 +75,21 @@ Network traffic analysis project focused on inspecting and analyzing packet-leve
 
 I regularly practice **Data Structures & Algorithms** on LeetCode using Java.
 
-* 🔥 **450+ Questions Solved**
+* 🔥 **500+ Questions Solved**
 * ☕ Primary language: **Java**
 * 🧠 Focus: Arrays · Strings · Hashing · Two Pointers · Sliding Window · Binary Search · Recursion · Linked Lists · Trees · Graphs · Dynamic Programming
 
-**LeetCode:** [View my profile](https://leetcode.com/rishu_raj_7)
+**LeetCode:** [View my profile](https://leetcode.com/rishuraj-7)
 
 ---
+### 🚀 About Me
 
-## 🏆 Achievements
-
-* 🎓 B.Tech Information Technology
-* 🔥 **450+ LeetCode  Question Solved**
-* ☁️ **Oracle Cloud Infrastructure AI Foundations Certified**
-* 🤖 **Oracle Cloud Infrastructure Generative AI Professional Certified**
-* 💻 **Java Certified**
+- 🎓 B.Tech in Information Technology
+- 🔥 **500+ LeetCode Problems Solved**
+- ☁️ **Oracle Cloud Infrastructure AI Foundations Certified**
+- 🤖 **Oracle Cloud Infrastructure Generative AI Professional Certified**
+- 🧠 **Oracle Agentic AI Certified**
+- 💻 **Java Certified**
 
 ---
 
